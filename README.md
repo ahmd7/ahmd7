@@ -1,4 +1,5 @@
 <h1 align="center">Welcome 👋, I'm Ahmed Samir</h1>
+
 # 💫 About Me:
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1D9CA4&random=false&width=435&lines=Cloud+and+DevOps+Engineer.;1x+AWS;2x+OCI" alt="Typing SVG" /></a></p>
