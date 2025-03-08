@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1D9CA4&random=false&width=435&lines=Cloud+and+DevOps+Engineer.;2x+AWS+2x+OCI" alt="Typing SVG" /></a></p>
 
 # 💫 About Me:
-🌱I’m currently learning AWS solution architect and DevOps tools.<br><br>💬 How to reach me on mobile (+20)1276542282<br><br>📫 How to reach me on email ahmed.s.abdelrahim7@gmail.com
+🌱I’m currently learning a DevOps Engineer at Si-vision.<br><br>💬 How to reach me on mobile (+20)1276542282<br><br>📫 How to reach me on email ahmed.s.abdelrahim7@gmail.com
 
 
 ## 🌐 Socials:
